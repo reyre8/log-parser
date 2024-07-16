@@ -1,0 +1,62 @@
+[
+  {
+    "path": "/my-website/",
+    "statusCode": "200"
+  },
+  {
+    "path": "http://non-existing-resource",
+    "statusCode": "404"
+  },
+  {
+    "path": "http://non-existing-resource",
+    "statusCode": "404"
+  },
+  {
+    "path": "/website",
+    "statusCode": "200"
+  },
+  {
+    "path": "/a-random-website",
+    "statusCode": "200"
+  },
+  {
+    "path": "http://non-existing-resource",
+    "statusCode": "404"
+  },
+  {
+    "path": "/my-website/",
+    "statusCode": "200"
+  },
+  {
+    "path": "http://website-with-error",
+    "statusCode": "500"
+  },
+  {
+    "path": "/my-website/",
+    "statusCode": "200"
+  },
+  {
+    "path": "/a-random-website",
+    "statusCode": "200"
+  },
+  {
+    "path": "/website",
+    "statusCode": "200"
+  },
+  {
+    "path": "/a-random-website",
+    "statusCode": "200"
+  },
+  {
+    "path": "/a-random-website",
+    "statusCode": "200"
+  },
+  {
+    "path": "/a-random-website",
+    "statusCode": "500"
+  },
+  {
+    "path": "/a-nice-website",
+    "statusCode": "200"
+  }
+]
